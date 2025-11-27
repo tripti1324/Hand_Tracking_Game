@@ -18,7 +18,7 @@ Bash
 
 python main.py
 
-⚙️ Core Logic
+Core Logic
 
 The game works by:
 
@@ -31,9 +31,12 @@ Implementing simple collision detection to check if the finger tip falls within 
 Incrementing the score and resetting the target's random position on a successful hit.
 
 
-✨ Features & Improvements
+Features & Improvements
 
-Features: Real-time Hand Tracking, Collision Detection, Scoring System.
+Features:
+Real-time Hand Tracking, 
+Collision Detection, 
+Scoring System.
 
 Ideas for Contribution: 
 Add a timer, 
