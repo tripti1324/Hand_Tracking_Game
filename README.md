@@ -34,11 +34,15 @@ Incrementing the score and resetting the target's random position on a successfu
 Features & Improvements
 
 Features:
+
+
 Real-time Hand Tracking, 
 Collision Detection, 
 Scoring System.
 
 Ideas for Contribution: 
+
+
 Add a timer, 
 implement difficulty levels,
 or use a different gesture (like a closed fist) for the hit action.
