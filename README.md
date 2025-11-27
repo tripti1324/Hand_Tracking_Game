@@ -1,5 +1,5 @@
 Hand Tracking Arcade Game
-This is a minimal summary of the project and instructions for a quick README or description.
+
 
 🎯 Quick Summary
 A simple, real-time computer vision arcade game where players use their index finger to "hit" a virtual target on screen, scoring points upon successful collision. Built using MediaPipe for hand tracking and OpenCV for video capture and display.
